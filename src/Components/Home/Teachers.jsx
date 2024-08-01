@@ -1,4 +1,6 @@
 import Teacher from '../../../public/Teacher.png'
+import Teacher2 from '../../../public/Teacher2.png'
+import Teacher3 from '../../../public/Teacher3.png'
 import engineer from '../../../public/engineer.png'
 import linkin from '../../../public/linkin.png'
 import instagram from '../../../public/instagram.png'
@@ -41,10 +43,10 @@ const Teachers = () => {
                 </div>
                 <div >
                     <div>
-                        <img src={Teacher} alt="" />
+                        <img src={Teacher2} alt="" />
                     </div>
                     <div>
-                        <h1 className="text-xl font-semibold my-2"> Matthew E. McNatt</h1>
+                        <h1 className="text-xl font-semibold my-2"> Tracy D. Wright</h1>
                         <p className="text-gray-400">Professor @George Brown College</p>
                         <p className="text-gray-400 my-2"> Ut enim ad minim veniam, quis nost exercitation
                             ullamco laboris nisi ut allquip ex commodo.</p>
@@ -66,10 +68,10 @@ const Teachers = () => {
                 </div>
                 <div >
                     <div>
-                        <img src={Teacher} alt="" />
+                        <img src={Teacher3} alt="" />
                     </div>
                     <div>
-                        <h1 className="text-xl font-semibold my-2"> Matthew E. McNatt</h1>
+                        <h1 className="text-xl font-semibold my-2">Cynthia A. Nelson</h1>
                         <p className="text-gray-400">Professor @George Brown College</p>
                         <p className="text-gray-400 my-2"> Ut enim ad minim veniam, quis nost exercitation
                             ullamco laboris nisi ut allquip ex commodo.</p>
