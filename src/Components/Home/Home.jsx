@@ -1,5 +1,6 @@
 import Banner from "./Banner";
-import Learning from "./Learning";
+import Learning from "./Learning1";
+import Slider from "./Slider";
 import Tracks from "./Tracks";
 
 
@@ -10,6 +11,7 @@ const Home = () => {
             <Banner></Banner>
             <Tracks></Tracks>
             <Learning></Learning>
+            <Slider></Slider>
         </div>
     );
 };
